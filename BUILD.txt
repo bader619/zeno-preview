@@ -1,4 +1,4 @@
 ZENO development preview (not the product, not production-ready)
-milestone: M03 functionally demonstrated on Web; Android device verification + final visual fidelity pending; orbit uses approved island art (temporary cut-outs)
-build: m03-routes-2026-11-15b
+milestone: M04 first full letter lesson (ب): world letters, discover, listen (short+madd), watch & interact (3 positions), completion; resume; no currency
+build: m04-lesson-2026-11-15a
 engine: Godot 4.7.2.stable, Web Compatibility, single-threaded
