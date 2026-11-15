@@ -1,4 +1,4 @@
 ZENO development review
-build: m04-repairs-2026-11-15b
+build: m04-repairs-2026-11-15c
 Godot 4.7.2; new PCK exported from app; checksum-verified checkpoint Web engine runtime.
 Android 0.4.1 export blocked: missing templates. Device verification pending.
