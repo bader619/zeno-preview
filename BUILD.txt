@@ -1,4 +1,4 @@
 ZENO development preview (not the product, not production-ready)
-milestone: M01_GODOT_SHELL
-build: m01-shell-2026-11-15f
+milestone: M02_TRIAL (3D ZENO generated GLB, unreviewed) on top of M01 shell
+build: m02-trial-2026-11-15a
 engine: Godot 4.7.2.stable, Web Compatibility, single-threaded
