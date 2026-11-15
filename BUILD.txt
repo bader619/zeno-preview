@@ -1,4 +1,4 @@
 ZENO development preview (not the product, not production-ready)
-milestone: M02 (3D ZENO rigged: idle, walk, inspect, thumbs_up, stamp; unreviewed) on M01 shell
-build: m02-rig-2026-11-15b
+milestone: M02 (3D ZENO + ZINA rigged, 5 clips each; owner approved ZENO likeness) on M01 shell
+build: m02-duo-2026-11-15e
 engine: Godot 4.7.2.stable, Web Compatibility, single-threaded
