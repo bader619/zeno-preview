@@ -1,0 +1,4 @@
+ZENO development preview (not the product, not production-ready)
+milestone: M01_GODOT_SHELL
+build: m01-shell-2026-11-15f
+engine: Godot 4.7.2.stable, Web Compatibility, single-threaded
