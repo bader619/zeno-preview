@@ -1,4 +1,4 @@
 ZENO development preview (not the product, not production-ready)
-milestone: M02 (ZENO + ZINA rigged, 6 clips incl. talk jaw; ZINA extra-hand defect pending regeneration)
-build: m02-talk-2026-11-15f
+milestone: M03 (parent gate, 2 local profiles, setup SC02-SC04, home SC05, letter-world orbit SC07, locks, 900ms match-and-move) + M02 3D viewer under parent area DEV
+build: m03-routes-2026-11-15a
 engine: Godot 4.7.2.stable, Web Compatibility, single-threaded
