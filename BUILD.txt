@@ -1,4 +1,4 @@
-ZENO development preview (not the product, not production-ready)
-milestone: M04 first full letter lesson (ب): world letters, discover, listen (short+madd), watch & interact (3 positions), completion; resume; no currency
-build: m04-lesson-2026-11-15a
-engine: Godot 4.7.2.stable, Web Compatibility, single-threaded
+ZENO development review
+build: m04-repairs-2026-11-15b
+Godot 4.7.2; new PCK exported from app; checksum-verified checkpoint Web engine runtime.
+Android 0.4.1 export blocked: missing templates. Device verification pending.
